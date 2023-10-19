@@ -7,4 +7,5 @@ This repo focuses on inferential statistics and drawing inferences from data. St
 + A **datasets** folder containing the datasets used in the assignment.
 + **README.md** file containing a overview of the assignment/repo.
 + **python_statistics.ipynb** contains my submission for the assignment.
++ **r_statistics.ipynb** contains the the analysis performed using R.
 
